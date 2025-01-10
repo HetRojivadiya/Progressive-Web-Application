@@ -16,6 +16,22 @@
         "sizes": "512x512",
         "type": "image/png"
       }
+    ],
+
+    "screenshots": [
+      {
+        "src": "/Progressive-Web-Application/screenshot1.png",
+        "sizes": "1280x720",
+        "type": "image/png",
+        "form_factor": "wide",
+        "label": "App Screenshot"
+      },
+      {
+        "src": "/Progressive-Web-Application/screenshot1.png",
+        "sizes": "1280x720",
+        "type": "image/png",
+        "label": "App Screenshot"
+      }
     ]
   }
   
